@@ -119,5 +119,9 @@
     // This includes player companions and family members.
     // Default is false and won't have any effect if enableHeroExecutions is false.
     "enablePlayerClanMemberExecutions": false,
+    
+    // Toggle players being allowed to join battles when wounded
+    // Default is true
+    "playerWoundedBattleEntry": true,
   }
 }
